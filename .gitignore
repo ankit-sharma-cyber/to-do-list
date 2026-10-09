@@ -1,0 +1,6 @@
+node_modules/
+.env
+npm-debug.log
+Docker_Practice_ToDo_App.pdf
+Docker_Scenarios_ToDo_App.pdf
+CI_Docker_Practice_ToDo_App.pdf
